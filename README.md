@@ -43,9 +43,10 @@ Starter file name [agent.py]: ANYFILE_NAME
 ---
 
 ### Next Steps
-1. Open the generated Python file (e.g., `agent.py`)  
-2. Run your agent using:
+1. Open the generated Python file (e.g., `agent.py`)
+2. Make sure you set your api_key is set in .env
+3. Run your agent using:
    ```bash
    abagentsdk run agent.py
    ```
-3. Start chatting with your custom AI agent.
+4. Start chatting with your custom AI agent.
