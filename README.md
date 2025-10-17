@@ -1,1 +1,1 @@
-# Example-Agent
+# Here are some templates of Agents
